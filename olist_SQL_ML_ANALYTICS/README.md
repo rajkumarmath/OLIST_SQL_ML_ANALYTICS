@@ -1,4 +1,4 @@
-# Olist E-Commerce Analytics Project
+# Olist_SQL_ML_ANALYTICS
 
 ## 📊 Project Overview
 
@@ -84,7 +84,7 @@ Below are examples of **realistic business-focused questions** along with the ty
 ---
 
 ## 📂 GitHub Repository Structure
-Olist-Ecommerce-Analytics/
+Olist_SQL_ML_ANALYTICS/
 │
 ├─ SQL/
 │ ├─ schema.sql # Table creation scripts
@@ -97,4 +97,5 @@ Olist-Ecommerce-Analytics/
 │  │── PNGS OF GRAPHS ETC..
 │
 └─ README.md 
+
 
